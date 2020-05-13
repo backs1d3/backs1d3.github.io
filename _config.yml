@@ -1,7 +1,7 @@
 title: 'backs1d3.github.io'
 description: "just blog"
 baseurl: "/"
-url: "https://b2a3e8.github.io
+url: "https://backs1d3.github.io/"
 
 
 
@@ -9,10 +9,9 @@ header_pages:
   - index.md
   - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
-
-#style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
+footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+style: light # dark (default) or light
+listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
