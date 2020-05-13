@@ -1,10 +1,13 @@
-# Example Site settings
+title: 'backs1d3.github.io'
+description: "just blog"
+baseurl: "/"
+url: "https://b2a3e8.github.io
 
-#google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+
+header_pages:
+  - index.md
+  - about.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
