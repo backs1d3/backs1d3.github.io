@@ -1,5 +1,5 @@
 ---
-title: welcome to the party
+title: bataklık
 layout: home
 permalink: /
 ---
